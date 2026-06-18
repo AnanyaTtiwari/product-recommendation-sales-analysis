@@ -57,3 +57,4 @@ ON a.`Order ID` = b.`Order ID`
 AND a.`Product Name` < b.`Product Name`
 GROUP BY a.`Product Name`, b.`Product Name`
 ORDER BY Frequency DESC;
+
