@@ -1,3 +1,4 @@
+<img width="196" height="305" alt="Screenshot 2026-04-24 152555" src="https://github.com/user-attachments/assets/d779728e-63fc-4647-a44e-3e51cbea4fb1" />
 # Product Recommendation & Sales Analysis Dashboard
 
 ## Project Overview
@@ -57,6 +58,7 @@ ON a.`Order ID` = b.`Order ID`
 AND a.`Product Name` < b.`Product Name`
 GROUP BY a.`Product Name`, b.`Product Name`
 ORDER BY Frequency DESC;
+```
 
 ### Dashboard
 <img width="489" height="759" alt="Screenshot 2026-04-24 154249" src="https://github.com/user-attachments/assets/491b9557-5b4a-4e2c-97a8-86ea83a01cdf" />
