@@ -1,5 +1,3 @@
-<img width="765" height="731" alt="Screenshot 2026-04-24 163426" src="https://github.com/user-attachments/assets/13947f7d-7b0c-4eca-ba27-11dbaf3e69f6" />
-<img width="196" height="305" alt="Screenshot 2026-04-24 152555" src="https://github.com/user-attachments/assets/d779728e-63fc-4647-a44e-3e51cbea4fb1" />
 # Product Recommendation & Sales Analysis Dashboard
 
 ## Project Overview
@@ -63,7 +61,12 @@ ORDER BY Frequency DESC;
 
 ### Dashboard
 <img width="489" height="759" alt="Screenshot 2026-04-24 154249" src="https://github.com/user-attachments/assets/491b9557-5b4a-4e2c-97a8-86ea83a01cdf" />
+
+
 <img width="765" height="731" alt="Screenshot 2026-04-24 163426" src="https://github.com/user-attachments/assets/9618a9d9-e6d9-4394-8433-d69734d78dc7" />
+
+
 <img width="765" height="484" alt="Screenshot 2026-04-24 163439" src="https://github.com/user-attachments/assets/1dd88a59-1988-44f0-a726-b76152349e5e" />
+
 
 
