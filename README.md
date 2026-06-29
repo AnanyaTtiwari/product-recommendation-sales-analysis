@@ -58,3 +58,5 @@ AND a.`Product Name` < b.`Product Name`
 GROUP BY a.`Product Name`, b.`Product Name`
 ORDER BY Frequency DESC;
 
+### Dashboard
+<img width="489" height="759" alt="Screenshot 2026-04-24 154249" src="https://github.com/user-attachments/assets/491b9557-5b4a-4e2c-97a8-86ea83a01cdf" />
